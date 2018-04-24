@@ -1,4 +1,4 @@
-//Objective: Calculate how much money to save every month for number of years before retirement and how much money would you have when you retire.
+//Objective: Calculate how much money to save every month for number of years before retirement and how much money you would have when you retire.
 //Name: Ashwin Chidambaram
 //Course: COMSC-110-1021
 //Compiler: TDM MinGW
